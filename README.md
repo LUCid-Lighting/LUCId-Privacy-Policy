@@ -4,7 +4,7 @@
 - We | LUCid Lighting
 - User | You
 - Guild | The LUCid Discord Server
-- Bot | The LUCid discord bot.
+- Bot | The LUCid discord bot
 - Command | A discord messaging feature for interacting with the LUCid Discord bot
 - Database | Any method that we employ to store non-cached data
 - API Server | The web server responsible for providing authentication for our products
